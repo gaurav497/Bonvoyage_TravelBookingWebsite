@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\UserService\\UserService.csproj": {}
+    "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\UserService\\UserService.csproj": {
+    "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\UserService\\UserService.csproj",
+        "projectUniqueName": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\UserService\\UserService.csproj",
+        "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\grvsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\UserService\\obj\\",
+        "outputPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grvsi\\AppData\\Roaming\\NuGet\\NuGet.Config",

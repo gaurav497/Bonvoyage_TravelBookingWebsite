@@ -4919,11 +4919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\BonVoyage_Test\\Bonvoyage_Test.csproj",
+      "projectUniqueName": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\BonVoyage_Test\\Bonvoyage_Test.csproj",
       "projectName": "Bonvoyage_Test",
-      "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\BonVoyage_Test\\Bonvoyage_Test.csproj",
+      "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\BonVoyage_Test\\Bonvoyage_Test.csproj",
       "packagesPath": "C:\\Users\\grvsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\BonVoyage_Test\\obj\\",
+      "outputPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\BonVoyage_Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grvsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4940,11 +4940,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\BookingWebService\\BookingWebService.csproj": {
-              "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\BookingWebService\\BookingWebService.csproj"
+            "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\BookingWebService\\BookingWebService.csproj": {
+              "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\BookingWebService\\BookingWebService.csproj"
             },
-            "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj": {
-              "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj"
+            "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj": {
+              "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj"
             }
           }
         }

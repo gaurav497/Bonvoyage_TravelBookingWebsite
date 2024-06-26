@@ -4838,11 +4838,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj",
+      "projectUniqueName": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj",
       "projectName": "PackageWebService",
-      "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj",
+      "projectPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\PackageWebService\\PackageWebService.csproj",
       "packagesPath": "C:\\Users\\grvsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite-master\\BonVoyage_capstone\\PackageWebService\\obj\\",
+      "outputPath": "C:\\Users\\grvsi\\Downloads\\Bonvoyage_TravelBookingWebsite-master\\Bonvoyage_TravelBookingWebsite\\BonVoyage_capstone\\PackageWebService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grvsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
