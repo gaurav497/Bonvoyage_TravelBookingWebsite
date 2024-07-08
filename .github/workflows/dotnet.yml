@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Deploy React to GitHub Pages
+    - uses: bitovi/github-actions-react-to-github-pages@v1.2.4
+            
     - uses: actions/checkout@v4
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
