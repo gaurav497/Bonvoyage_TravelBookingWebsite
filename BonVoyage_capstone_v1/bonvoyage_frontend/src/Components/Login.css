@@ -1,0 +1,19 @@
+.travel {
+    width: 100vw; /* Set maximum width to container width */
+    height:  100vh; /* Set maximum height to container height */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    position: fixed;
+    overflow: hidden;
+  }
+  .loginBox{
+    width: 100vw;
+    
+    
+  }
+  
+  

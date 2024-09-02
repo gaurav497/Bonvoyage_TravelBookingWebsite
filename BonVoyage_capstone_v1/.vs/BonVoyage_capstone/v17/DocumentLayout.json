@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bookingwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|solutionrelative:bookingwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B32837-037E-442D-AC9C-6890467F680C}|PackageWebService\\PackageWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\packagewebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B32837-037E-442D-AC9C-6890467F680C}|PackageWebService\\PackageWebService.csproj|solutionrelative:packagewebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bookingwebservice\\repository\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|solutionrelative:bookingwebservice\\repository\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B8B220-1648-45C3-93CB-4B8002CBF7F8}|OApiGateWay\\OApiGateWay.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\oapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B8B220-1648-45C3-93CB-4B8002CBF7F8}|OApiGateWay\\OApiGateWay.csproj|solutionrelative:oapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bookingwebservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|solutionrelative:bookingwebservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bookingwebservice\\repository\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|solutionrelative:bookingwebservice\\repository\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\models\\bonvoyageusersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\bonvoyageusersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B8B220-1648-45C3-93CB-4B8002CBF7F8}|OApiGateWay\\OApiGateWay.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\oapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88B8B220-1648-45C3-93CB-4B8002CBF7F8}|OApiGateWay\\OApiGateWay.csproj|solutionrelative:oapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\src\\components\\wishlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\src\\components\\wishlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\migrations\\20240711053025_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\migrations\\20240711053025_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bonvoyage_frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}|BonVoyage_FrontEnd\\bonvoyage_frontend.esproj|solutionrelative:bonvoyage_frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\bookingwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3A0B379-8E35-4DD4-82E7-262FCEC61250}|BookingWebService\\BookingWebService.csproj|solutionrelative:bookingwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B32837-037E-442D-AC9C-6890467F680C}|PackageWebService\\PackageWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\packagewebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B32837-037E-442D-AC9C-6890467F680C}|PackageWebService\\PackageWebService.csproj|solutionrelative:packagewebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B32837-037E-442D-AC9C-6890467F680C}|PackageWebService\\PackageWebService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\packagewebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B32837-037E-442D-AC9C-6890467F680C}|PackageWebService\\PackageWebService.csproj|solutionrelative:packagewebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B8B220-1648-45C3-93CB-4B8002CBF7F8}|OApiGateWay\\OApiGateWay.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\oapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88B8B220-1648-45C3-93CB-4B8002CBF7F8}|OApiGateWay\\OApiGateWay.csproj|solutionrelative:oapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\models\\refreshtokenclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\refreshtokenclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|c:\\users\\gaurav.singh8\\downloads\\practice ocelot\\group_2\\bonvoyage_capstone_v1\\userservice\\dal\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}|UserService\\UserService.csproj|solutionrelative:userservice\\dal\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T09:11:26.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIBJwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:46:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Repository\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "BookingWebService\\Repository\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Repository\\BookingRepo.cs",
+              "RelativeToolTip": "BookingWebService\\Repository\\BookingRepo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:57:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserRegistrationController.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAIBJwMsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:46:41.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\PackageWebService\\Program.cs",
+              "RelativeDocumentMoniker": "PackageWebService\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\PackageWebService\\Program.cs",
+              "RelativeToolTip": "PackageWebService\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBJwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:47:04.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Program.cs",
+              "RelativeDocumentMoniker": "BookingWebService\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Program.cs",
+              "RelativeToolTip": "BookingWebService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:37:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\OApiGateWay\\Program.cs",
+              "RelativeDocumentMoniker": "OApiGateWay\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\OApiGateWay\\Program.cs",
+              "RelativeToolTip": "OApiGateWay\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAMBdwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:17:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.http",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\UserService.http",
+              "RelativeDocumentMoniker": "UserService\\UserService.http",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\UserService.http",
+              "RelativeToolTip": "UserService\\UserService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-08T09:28:55.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAAAAAAAABhwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T09:51:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BookingWebService\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BookingWebService\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:35:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "UserService\\Repository\\UserRepo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:22:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:09:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Repository\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "BookingWebService\\Repository\\IBookingRepo.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Repository\\IBookingRepo.cs",
+              "RelativeToolTip": "BookingWebService\\Repository\\IBookingRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:57:11.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\index.html",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\index.html",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\index.html",
+              "RelativeToolTip": "bonvoyage_frontend\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T10:16:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\README.md",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\README.md",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\README.md",
+              "RelativeToolTip": "bonvoyage_frontend\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-06T05:04:34.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\nuget.config",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\nuget.config",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\nuget.config",
+              "RelativeToolTip": "bonvoyage_frontend\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T05:04:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\package.json",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\package.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\package.json",
+              "RelativeToolTip": "bonvoyage_frontend\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T05:04:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BonvoyageUsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Models\\BonvoyageUsersDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\BonvoyageUsersDbContext.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Models\\BonvoyageUsersDbContext.cs",
+              "RelativeToolTip": "UserService\\Models\\BonvoyageUsersDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAvwCAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:08:45.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\OApiGateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "OApiGateWay\\appsettings.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\OApiGateWay\\appsettings.json",
+              "RelativeToolTip": "OApiGateWay\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T05:18:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WishList.tsx",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\src\\Components\\WishList.tsx",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\src\\Components\\WishList.tsx",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\src\\Components\\WishList.tsx",
+              "RelativeToolTip": "bonvoyage_frontend\\src\\Components\\WishList.tsx",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-05T05:04:58.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\.gitignore",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\.gitignore",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\.gitignore",
+              "RelativeToolTip": "bonvoyage_frontend\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-30T10:17:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\.vscode\\launch.json",
+              "RelativeToolTip": "bonvoyage_frontend\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:15:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\tsconfig.node.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\tsconfig.node.json",
+              "RelativeToolTip": "bonvoyage_frontend\\tsconfig.node.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:16:44.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\tsconfig.json",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\tsconfig.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\tsconfig.json",
+              "RelativeToolTip": "bonvoyage_frontend\\tsconfig.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:16:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240711053025_first.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Migrations\\20240711053025_first.cs",
+              "RelativeDocumentMoniker": "UserService\\Migrations\\20240711053025_first.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Migrations\\20240711053025_first.cs",
+              "RelativeToolTip": "UserService\\Migrations\\20240711053025_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:06:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\vite.config.ts",
+              "RelativeDocumentMoniker": "bonvoyage_frontend\\vite.config.ts",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\bonvoyage_frontend\\vite.config.ts",
+              "RelativeToolTip": "bonvoyage_frontend\\vite.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-30T10:16:37.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookingWebService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\BookingWebService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookingWebService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAAAAAAAABhwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T09:51:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\PackageWebService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PackageWebService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\PackageWebService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PackageWebService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAABhwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T09:48:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\PackageWebService\\appsettings.json",
+              "RelativeDocumentMoniker": "PackageWebService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\PackageWebService\\appsettings.json",
+              "RelativeToolTip": "PackageWebService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T06:13:54.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\OApiGateWay\\ocelot.json",
+              "RelativeDocumentMoniker": "OApiGateWay\\ocelot.json",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\OApiGateWay\\ocelot.json",
+              "RelativeToolTip": "OApiGateWay\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T06:14:04.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RefreshTokenClass.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Models\\RefreshTokenClass.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\RefreshTokenClass.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\Models\\RefreshTokenClass.cs",
+              "RelativeToolTip": "UserService\\Models\\RefreshTokenClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:11:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\DAL\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "UserService\\DAL\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\gaurav.singh8\\Downloads\\practice ocelot\\group_2\\BonVoyage_capstone_v1\\UserService\\DAL\\LoginResponse.cs",
+              "RelativeToolTip": "UserService\\DAL\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:11:41.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

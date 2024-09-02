@@ -1,0 +1,78 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/UserRegistration/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7201
+        }
+      ],
+      "UpstreamPathTemplate": "/api/UserRegistration/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST","PUT","DELETE" ],
+      "SwaggerKey": "UserRegistration"
+    },
+    {
+      "DownstreamPathTemplate": "/api/Package/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7159
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Package/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "SwaggerKey": "Package"
+    },
+    {
+      "DownstreamPathTemplate": "/api/Booking/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7160
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Booking/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "SwaggerKey": "Booking"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:4000"
+  },
+  "SwaggerEndPoints": [
+    {
+      "Key": "UserRegistration",
+      "Config": [
+        {
+          "Name": "UserRegistration API",
+          "Version": "v1",
+          "Url": "https://localhost:7201/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "Package",
+      "Config": [
+        {
+          "Name": "Package API",
+          "Version": "v1",
+          "Url": "https://localhost:7159/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "Booking",
+      "Config": [
+        {
+          "Name": "Booking API",
+          "Version": "v1",
+          "Url": "https://localhost:7160/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}

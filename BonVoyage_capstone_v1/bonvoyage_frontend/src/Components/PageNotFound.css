@@ -1,0 +1,21 @@
+.pagenotfound{
+    background-image: url("404.png");
+    width: 30rem;
+    height: 30rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.topPageNotFound{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gotohome{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    /* border: 1px solid gray; */
+}
+

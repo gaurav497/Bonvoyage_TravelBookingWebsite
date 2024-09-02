@@ -1,0 +1,88 @@
+.container {
+    width: 90vw;
+    margin: 0 auto;
+    padding: 20px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .header {
+    padding: 20px 0;
+    text-align: left;
+  }
+  
+  .branding {
+    display: flex;
+    align-items: center;
+  }
+  
+  .branding-title {
+    margin-right: 20px;
+  }
+  
+  .navigation {
+    text-align: right;
+    display: flex;
+    
+  }
+  
+  .navigation a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navigation a:hover {
+    text-decoration: underline;
+  }
+  
+  .main-content {
+    padding: 50px 0;
+  }
+  
+  .heading {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100px;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .sub-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .table-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 10%;
+  }
+  
+  .table-element {
+    width: 25%;
+    padding: 20px;
+  }
+  
+  .table-element h3 {
+    margin-bottom: 10px;
+  }
+  
