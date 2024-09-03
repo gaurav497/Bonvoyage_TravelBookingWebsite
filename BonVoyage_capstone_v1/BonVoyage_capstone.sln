@@ -5,8 +5,6 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserService", "UserService\UserService.csproj", "{10B485FD-8D78-4308-AD8F-ED1B8C613BA3}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "bonvoyage_frontend", "BonVoyage_FrontEnd\bonvoyage_frontend.esproj", "{8A0DF74A-9FBF-4C21-8A43-5956D6542CF9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PackageWebService", "PackageWebService\PackageWebService.csproj", "{A7B32837-037E-442D-AC9C-6890467F680C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingWebService", "BookingWebService\BookingWebService.csproj", "{F3A0B379-8E35-4DD4-82E7-262FCEC61250}"
